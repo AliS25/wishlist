@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='wishlist_walkthrough.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/AliS25/wishlist/blob/main/wishlist%20walkthrough.gif' width='' alt='Video Walkthrough' />
 
 
 GIF created with LICEcap 
