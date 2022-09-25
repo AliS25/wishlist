@@ -1,7 +1,7 @@
-package com.example.wishlist
+package com.example.simplewishlist
 
 class Item(
     val name: String,
-    val price: Double,
+    val price: String,
     val url: String) {
 }
