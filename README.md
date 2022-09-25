@@ -4,14 +4,14 @@ Submitted by: **Ali Sbeih**
 
 **Wishlist** is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **3** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **User can add an item to their wishlist**
-- [ x] **User can see their list of items based on previously inputted items**
+- [x] **User can add an item to their wishlist**
+- [x] **User can see their list of items based on previously inputted items**
 
 The following **optional** features are implemented:
 
@@ -32,9 +32,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with LICEcap 
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
