@@ -1,5 +1,4 @@
-package com.example.wishlist
-
+package com.example.simplewishlist
 
 import android.view.LayoutInflater
 import android.view.View
